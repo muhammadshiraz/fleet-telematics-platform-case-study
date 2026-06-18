@@ -397,32 +397,6 @@ Measured production KPIs, fleet size, adoption, customer organization, and busin
 
 ---
 
-## Suggested GitHub Repository Description
-
-```text
-Fleet and telematics mobile app case study built with React Native, Expo, Redux, REST APIs, GPS tracking, maps, route playback, driver safety, compliance workflows, reports, and mobile-first operational UI.
-```
-
-## Suggested GitHub Topics
-
-```text
-react-native
-expo
-fleet-management
-telematics
-gps-tracking
-redux
-mobile-app
-driver-safety
-maps
-reports
-operational-dashboard
-case-study
-proof-of-work
-```
-
----
-
 ## Contact
 
 **Muhammad Shiraz**
