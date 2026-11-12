@@ -1,5 +1,7 @@
 # Pasban — Fleet & Telematics Platform Case Study
 
+![Pasban — Fleet Management & Telematics Case Study](./screenshots/pasban-cover.png)
+
 A public proof-of-work case study for a React Native and Expo mobile application built for **fleet operations, GPS tracking, driver safety, vehicle compliance, reporting, training, and field-service workflows**.
 
 This case study demonstrates how a mobile-first operational product can combine role-based workflows, fleet dashboards, map-based tracking, route playback, driver violations, LTO approvals, inspections, assessments, reports, quizzes, and reusable React Native UI architecture.
